@@ -19,6 +19,7 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
         // THis is a test comment to test the source controls
+        // THis is another test comment to test source control on xcode
     }
 
 
